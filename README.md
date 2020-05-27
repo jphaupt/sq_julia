@@ -1,2 +1,2 @@
 # sq_julia
-Brief tutorial on the Shockley-Quiesser limit, written in Julia
+Brief tutorial on the Shockley-Queisser limit, written in Julia
